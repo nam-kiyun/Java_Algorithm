@@ -1,4 +1,4 @@
-package Baekjun;
+package Baekjoon;
 import java.io.*;
 
 public class NumsSum {
